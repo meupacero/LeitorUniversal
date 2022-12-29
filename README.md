@@ -1,2 +1,2 @@
-# Como implementar o leitor em sua aplicação
+# Tutorial de como implementar
 https://github.com/meupacero/LeitorUniversal/wiki
